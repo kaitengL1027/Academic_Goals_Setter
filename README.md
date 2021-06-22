@@ -55,6 +55,8 @@ Welcome to Academic Goals Setter!
 
 Add a course to the app, pick an enrolment date, then save it. 
 
+< img src="public/assets/gifs/add_course.gif" width="400px"/ >
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/55459461/122967394-6a5d1500-d358-11eb-895c-c66685caf381.gif | width=100)
 
 Add the goals you would like to achieve in this course, then save it. You can see an overview of all the goals related to its courses in the All Goals tab
