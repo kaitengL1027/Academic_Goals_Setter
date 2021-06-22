@@ -55,24 +55,19 @@ Welcome to Academic Goals Setter!
 
 Add a course to the app, pick an enrolment date, then save it. 
 
-<img src="/public/assets/gifs/add_course.gif" width="400"/>
-![](public/assets/gifs/add_course.gif)
-!["Screenrecording of Adding Course"](https://github.com/aseenontv1027/Academic_Goals_Setter/blob/master/public/assets/gifs/add_course.gif?raw=true)
-< img src="public/assets/gifs/add_course.gif" width="400px" >
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/55459461/122967394-6a5d1500-d358-11eb-895c-c66685caf381.gif | width=100)
+<img src="/public/assets/gifs/add_course.gif" width="350"/>
 
 Add the goals you would like to achieve in this course, then save it. You can see an overview of all the goals related to its courses in the All Goals tab
 
-![Screen_Recording_20210621-225941_ionic-react_1](https://user-images.githubusercontent.com/55459461/122968077-28809e80-d359-11eb-944b-2e783445d85b.gif | width=100)
+<img src="/public/assets/gifs/add_goal.gif" width="350"/>
 
 You can filter what you would like to see in the All Goals tab by toggling courses in the filter. 
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/55459461/122968760-e2780a80-d359-11eb-9f67-a9ee094195b7.gif | width=100)
+<img src="/public/assets/gifs/filter.gif" width="350"/>
 
 You can also delete or update existing goals by sliding left and right. 
 
-![Screen_Recording_20210621-225941_ionic-react_3](https://user-images.githubusercontent.com/55459461/122968926-0e938b80-d35a-11eb-9ba0-0165fe990cb0.gif | width=100)
+<img src="/public/assets/gifs/update_delete.gif" width="350"/>
 
 ## Tech Stack
 This project used ReactJs, TypeScript, JavaScript and CSS. 
