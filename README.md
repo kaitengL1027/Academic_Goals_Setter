@@ -55,7 +55,7 @@ Welcome to Academic Goals Setter!
 
 Add a course to the app, pick an enrolment date, then save it. 
 
-<img src="/public/assets/gifs/add_course.gif" width="250" height="250"/>
+<img src="/public/assets/gifs/add_course.gif" width="400"/>
 ![](public/assets/gifs/add_course.gif)
 !["Screenrecording of Adding Course"](https://github.com/aseenontv1027/Academic_Goals_Setter/blob/master/public/assets/gifs/add_course.gif?raw=true)
 < img src="public/assets/gifs/add_course.gif" width="400px" >
