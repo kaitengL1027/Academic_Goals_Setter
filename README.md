@@ -70,6 +70,6 @@ You can also delete or update existing goals by sliding left and right.
 <img src="/public/assets/gifs/update_delete.gif" width="350"/>
 
 ## Tech Stack
-This project used ReactJs, TypeScript, JavaScript and CSS. 
+This project used ReactJs, TypeScript, JavaScript and CSS built on Ionic Framework. 
 
 useState, useEffect, useRef, useContext, useHistory, useParams hooks were used. 
